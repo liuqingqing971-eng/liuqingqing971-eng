@@ -1,5 +1,6 @@
 ## Hi there 👋
-![](https://stat.leftover.cn/bbdc?userid=292826674&nickname=晴晴)
+[![晴晴's bbdc stats](https://stat.leftover.cn/bbdc?userId=292826674&nickname=晴晴)](https://github.com/left0ver/github-bbdc-stat)
+
 <!--
 **liuqingqing971-eng/liuqingqing971-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
